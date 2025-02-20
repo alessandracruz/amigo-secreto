@@ -67,6 +67,10 @@ A interface do projeto possui os seguintes elementos principais:
 
 5. Teste a aplicação: adicione nomes e realize o sorteio! 🎉
 
+## Badge de Conclusão
+
+![Amigo Secreto - Badge](assets/challenge_amigo_secreto.png)
+
 ## 📜 Licença
 
 Este projeto é **livre para uso e modificação**, ideal para fins educacionais ou diversão em família! 😊
